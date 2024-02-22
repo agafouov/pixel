@@ -1,0 +1,68 @@
+.referral-icon {
+  width: 48px;
+  height: 48px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+  &__pixelcoin-icon {
+    background-image: url("../../assets/images/coin-min.svg");
+  }
+  &__prem-icon {
+    background-image: url("../../assets/images/prem.png");
+  }
+  &__coin-small-icon {
+    background-image: url("../../assets/images/coin-small.png");
+  }
+}
+
+.prem-link {
+  color: var(--palette-brand-light);
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  &:active {
+    color: #0661bd;
+  }
+}
+
+.penny-icon {
+  display: flex;
+  background-image: url("../../assets/images/penny.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+}
+
+.referral-league-icon {
+  width: 24px;
+  height: 24px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+  &__silver {
+    background-image: url("../../assets/images/Silver-95.png");
+  }
+  &__gold {
+    background-image: url("../../assets/images/Gold-95.png");
+  }
+  &__platinum {
+    background-image: url("../../assets/images/Platinum-95.png");
+  }
+  &__diamond {
+    background-image: url("../../assets/images/Diamond-95.png");
+  }
+}
+
+.referral-animation {
+  opacity: 0; /* Начальная прозрачность */
+  animation: referral-opacity 0.25s forwards; /* Название анимации и время */
+}
+
+@keyframes referral-opacity {
+  from {
+    opacity: 0; /* Начальное значение прозрачности */
+  }
+  to {
+    opacity: 1; /* Конечное значение прозрачности */
+  }
+}

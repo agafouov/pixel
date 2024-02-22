@@ -1,0 +1,19 @@
+.squad-animation {
+    opacity: 0; /* Начальная прозрачность */
+    animation: squad-opacity 0.5s forwards; /* Название анимации и время */
+  }
+  
+  @keyframes squad-opacity {
+    from {
+      opacity: 0; /* Начальное значение прозрачности */
+    }
+    to {
+      opacity: 1; /* Конечное значение прозрачности */
+    }
+  }
+
+.disco-big-icon {
+  background-image: url("../../assets/images/disco.png");
+  background-size: contain;
+}
+

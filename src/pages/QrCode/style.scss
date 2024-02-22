@@ -1,0 +1,45 @@
+._root_pl5tv_1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 40px;
+}
+
+._root_1ctq4_1 {
+  word-wrap: break-word;
+  min-width: 0;
+  max-width: 100%;
+  width: 100%;
+  color: var(--palette-white);
+  text-align: left;
+}
+
+._typeface-title-0_1ctq4_164 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 34px;
+}
+
+._align-center_1ctq4_14 {
+  text-align: center;
+}
+
+// img,
+// picture {
+//   max-width: 100%;
+//   display: block;
+// }
+
+._qrCodeImg_pl5tv_10 {
+  max-width: 100%;
+  display: block;
+  width: 220px;
+  height: 220px;
+  background: url("../../assets/images/pixelcoin_qr.png");
+  border-radius: 14px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+}

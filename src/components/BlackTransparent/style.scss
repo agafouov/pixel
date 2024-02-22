@@ -1,0 +1,15 @@
+.black-transparent-btn {
+  border-radius: 14px;
+  // backdrop-filter: blur(14px);
+  background: rgba(255, 255, 255, 0.12);
+  &:active {
+    background-color: #29292c;
+  }
+
+  &_with-icon {
+    svg {
+      flex-shrink: 0;
+      color: rgb(112, 117, 121);
+    }
+  }
+}

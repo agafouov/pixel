@@ -1,0 +1,149 @@
+.background-league {
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: 100%;
+  background-position: center top;
+  background-repeat: no-repeat;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  animation: league-bg-animation 0.4s forwards;
+}
+
+@keyframes league-bg-animation {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.theme-league {
+  &__bronze {
+    background-image: url("../../assets/images/bg-bronze.png");
+  }
+  &__silver {
+    background-image: url("../../assets/images/bg-silver.png");
+  }
+  &__gold {
+    background-image: url("../../assets/images/bg-gold.png");
+  }
+  &__platinum {
+    background-image: url("../../assets/images/bg-platinum.png");
+  }
+  &__diamond {
+    background-image: url("../../assets/images/bg-diamond.png");
+  }
+}
+
+.league-position {
+  margin-left: 42px;
+  width: 160px;
+  height: 160px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+}
+
+.league-icon {
+  &__bronze {
+    background-image: url("../../assets/images/level_bronze.png");
+  }
+  &__silver {
+    background-image: url("../../assets/images/level_silver.png");
+  }
+  &__gold {
+    background-image: url("../../assets/images/level_gold.png");
+  }
+  &__platinum {
+    background-image: url("../../assets/images/level_platinum.png");
+  }
+  &__diamond {
+    background-image: url("../../assets/images/level_diamond.png");
+  }
+}
+
+.league-animation {
+  opacity: 0; /* Начальная прозрачность */
+  animation: league-opacity 0.5s forwards; /* Название анимации и время */
+}
+
+@keyframes league-opacity {
+  from {
+    opacity: 0; /* Начальное значение прозрачности */
+  }
+  to {
+    opacity: 1; /* Конечное значение прозрачности */
+  }
+}
+
+.league_skeleton {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px 0;
+  list-style: none;
+  border-radius: 20px;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.12);
+  &__wrapper {
+    width: 100%;
+    height: 50px;
+    position: relative;
+  }
+}
+
+// circle
+.league_skeleton__circle {
+  position: absolute;
+  border-radius: 100%;
+  left: 60px;
+  width: 48px;
+  height: 48px;
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+// first line
+.league_element__box1 {
+  position: absolute;
+  left: 120px;
+  top: 1px;
+  width: 90px;
+  height: 8px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #fff;
+}
+
+// second line
+.league_element__box2 {
+  position: absolute;
+  left: 120px;
+  top: 24px;
+  width: 172px;
+  height: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+}
+
+// little line
+.league_element__box3 {
+  position: absolute;
+  left: 20px;
+  top: 25%;
+  width: 24px;
+  height: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}

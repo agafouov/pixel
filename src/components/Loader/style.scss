@@ -1,0 +1,23 @@
+._loader_1urhx_1 {
+  width: 22px;
+//   min-width: 220px;
+  height: 22px;
+//   min-height: 220px;
+  border: 2.6px solid rgba(235, 235, 245, 0.18);
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  animation: _rotation_1urhx_1 1.5s linear infinite;
+}
+@keyframes _rotation_1urhx_1 {
+  0% {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loader {
+  width: 100px;
+  height: 100px;
+}

@@ -1,0 +1,21 @@
+.tab {
+  padding: 12px 14px;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 12px;
+  backdrop-filter: blur(16px);
+  &__fren-btn {
+    background: rgba(255, 255, 255, 0.12);
+    box-shadow: 0 2px 28px #00001c0f, 0 0 1px #00001c1f;
+    margin-right: 5px;
+  }
+  &__earn-btn {
+    background: linear-gradient(101deg, #ffa800 25.94%, #f47e3c 94.32%);
+    box-shadow: 0 2px 28px #00001c0f, 0 0 1px #00001c1f;
+  }
+  &__name {
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+  }
+}

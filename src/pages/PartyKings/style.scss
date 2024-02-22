@@ -1,0 +1,108 @@
+.party_skeleton {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px 0;
+  list-style: none;
+  border-radius: 20px;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.12);
+  &__wrapper {
+    width: 100%;
+    height: 50px;
+    position: relative;
+  }
+}
+
+// circle
+.party_skeleton__circle {
+  position: absolute;
+  border-radius: 100%;
+  left: 60px;
+  width: 48px;
+  height: 48px;
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+// first line
+.party_element__box1 {
+  position: absolute;
+  left: 120px;
+  top: 1px;
+  width: 90px;
+  height: 8px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #fff;
+}
+
+// second line
+.party_element__box2 {
+  position: absolute;
+  left: 120px;
+  top: 24px;
+  width: 172px;
+  height: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+}
+
+// little line
+.party_element__box3 {
+  position: absolute;
+  left: 20px;
+  top: 25%;
+  width: 24px;
+  height: 8px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}
+
+// @keyframes shine-lines {
+//     0% {
+//         background-position: -100px;
+//     }
+
+//     40%, 100% {
+//         background-position: 240px;
+//     }
+// }
+
+// @keyframes shine-avatar {
+//     0% {
+//         background-position: -100px + $avatar-offset;
+//     }
+
+//     40%, 100% {
+//         background-position: 140px + $avatar-offset;
+//     }
+// }
+
+// @keyframes little-line {
+//     0% {
+//         background-position: -100px + $little-offset;
+//     }
+
+//     40%, 100% {
+//         background-position: 140px + $little-offset;
+//     }
+// }
+
+.party-animation {
+  opacity: 0;
+  animation: party-opacity 0.25s forwards;
+}
+
+@keyframes party-opacity {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

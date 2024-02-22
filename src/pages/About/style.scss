@@ -1,0 +1,84 @@
+.x-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url("../../assets/images/twitter_logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+}
+
+.about-icon {
+  width: 48px;
+  height: 48px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: transparent;
+  &__pixelcoin-icon {
+    background-image: url("../../assets/images/coin-min.svg");
+  }
+  &__lightning-icon {
+    background-image: url("../../assets/images/lightning.png");
+  }
+  &__diamond-cup-icon {
+    background-image: url("../../assets/images/Diamond-95.png");
+  }
+  &__rocket-icon {
+    background-image: url("../../assets/animation/peepo-rocket.gif");
+  }
+  &__handshake-icon {
+    background-image: url("../../assets/images/handshake.png");
+  }
+}
+
+.about-transparent-btn {
+  position: relative;
+  width: 100%;
+  border-radius: 12px;
+  height: 50px;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.12);
+  align-items: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  &:active {
+    background-color: #29292c;
+  }
+}
+
+.about-footer-btn {
+  padding: 14px 12px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 14px;
+  background: linear-gradient(101deg, #ffa800 25.94%, #f47e3c 94.32%);
+  box-shadow: 0 2px 28px #00001c0f, 0 0 1px #00001c1f;
+  flex-grow: 1;
+  position: fixed;
+  bottom: 16px;
+  left: 14px;
+  right: 14px;
+  cursor: pointer;
+}
+
+.full-guide {
+  position: fixed;
+  bottom: 90px;
+  left: 14px;
+  right: 14px;
+}
+
+.about-animation {
+  opacity: 0;
+  animation: about-opacity 0.25s forwards;
+}
+
+@keyframes about-opacity {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
