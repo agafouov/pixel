@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.cc7a5508.css",
-    "main.js": "/pixel/static/js/main.2a000914.js",
+    "main.css": "/pixel/static/css/main.7683cb7a.css",
+    "main.js": "/pixel/static/js/main.2545638f.js",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.fdb0d76d1398a3cd07d3.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
@@ -9,6 +9,7 @@
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
+    "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
     "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
@@ -32,7 +33,6 @@
     "static/media/main-bg-fallout.jpg": "/pixel/static/media/main-bg-fallout.78cca8bb535a45947184.jpg",
     "static/media/twitter_logo.png": "/pixel/static/media/twitter_logo.46aa1b5dd9aeae7ce33f.png",
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb4.svg",
-    "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/soon_bg.jpeg": "/pixel/static/media/soon_bg.a33e11fafcbb0a1f3d53.jpeg",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
     "static/media/creator.jpg": "/pixel/static/media/creator.f62bc97cbbaafc40a77b.jpg",
@@ -41,11 +41,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.cc7a5508.css.map": "/pixel/static/css/main.cc7a5508.css.map",
-    "main.2a000914.js.map": "/pixel/static/js/main.2a000914.js.map"
+    "main.7683cb7a.css.map": "/pixel/static/css/main.7683cb7a.css.map",
+    "main.2545638f.js.map": "/pixel/static/js/main.2545638f.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc7a5508.css",
-    "static/js/main.2a000914.js"
+    "static/css/main.7683cb7a.css",
+    "static/js/main.2545638f.js"
   ]
 }
