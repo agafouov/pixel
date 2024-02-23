@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.0e5a8c8b.css",
-    "main.js": "/pixel/static/js/main.58f0cd55.js",
+    "main.js": "/pixel/static/js/main.f7fe4149.js",
+    "static/media/zuck.jpg": "/pixel/static/media/zuck.b351c4ca4af6dd988fa4.jpg",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.fdb0d76d1398a3cd07d3.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
@@ -25,6 +26,8 @@
     "static/media/influencer.png": "/pixel/static/media/influencer.89a6424bfdb3e0fce3ae.png",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
     "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
+    "static/media/messi.jpg": "/pixel/static/media/messi.f6f14f47741da4c49968.jpg",
+    "static/media/cristiano.jpg": "/pixel/static/media/cristiano.13139b96974dad4f91e0.jpg",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/level_diamond.png": "/pixel/static/media/level_diamond.36b885d4d1bad6b6489d.png",
     "static/media/level_platinum.png": "/pixel/static/media/level_platinum.c86f6aa782562dcd82ce.png",
@@ -43,10 +46,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.0e5a8c8b.css.map": "/pixel/static/css/main.0e5a8c8b.css.map",
-    "main.58f0cd55.js.map": "/pixel/static/js/main.58f0cd55.js.map"
+    "main.f7fe4149.js.map": "/pixel/static/js/main.f7fe4149.js.map"
   },
   "entrypoints": [
     "static/css/main.0e5a8c8b.css",
-    "static/js/main.58f0cd55.js"
+    "static/js/main.f7fe4149.js"
   ]
 }
