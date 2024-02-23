@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.0e5a8c8b.css",
-    "main.js": "/pixel/static/js/main.72d3aec2.js",
+    "main.js": "/pixel/static/js/main.f010da72.js",
     "static/media/zuck.jpg": "/pixel/static/media/zuck.b351c4ca4af6dd988fa4.jpg",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.fdb0d76d1398a3cd07d3.png",
@@ -12,7 +12,7 @@
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
     "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
-    "static/media/du_roves_channel.jpg": "/pixel/static/media/du_roves_channel.7e137be957746a3f1751.jpg",
+    "static/media/durov.jpg": "/pixel/static/media/durov.7e137be957746a3f1751.jpg",
     "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
     "static/media/main-bg-silver.png": "/pixel/static/media/main-bg-silver.feabcff82a05bacbba37.png",
@@ -46,10 +46,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.0e5a8c8b.css.map": "/pixel/static/css/main.0e5a8c8b.css.map",
-    "main.72d3aec2.js.map": "/pixel/static/js/main.72d3aec2.js.map"
+    "main.f010da72.js.map": "/pixel/static/js/main.f010da72.js.map"
   },
   "entrypoints": [
     "static/css/main.0e5a8c8b.css",
-    "static/js/main.72d3aec2.js"
+    "static/js/main.f010da72.js"
   ]
 }
