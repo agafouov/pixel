@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.4b7ff910.css",
-    "main.js": "/pixel/static/js/main.1ac80e05.js",
+    "main.js": "/pixel/static/js/main.97301a9b.js",
     "static/media/zuck.jpg": "/pixel/static/media/zuck.b351c4ca4af6dd988fa4.jpg",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.fdb0d76d1398a3cd07d3.png",
@@ -46,10 +46,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.4b7ff910.css.map": "/pixel/static/css/main.4b7ff910.css.map",
-    "main.1ac80e05.js.map": "/pixel/static/js/main.1ac80e05.js.map"
+    "main.97301a9b.js.map": "/pixel/static/js/main.97301a9b.js.map"
   },
   "entrypoints": [
     "static/css/main.4b7ff910.css",
-    "static/js/main.1ac80e05.js"
+    "static/js/main.97301a9b.js"
   ]
 }
