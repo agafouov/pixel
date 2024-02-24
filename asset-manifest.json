@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.ea00bb47.css",
-    "main.js": "/pixel/static/js/main.ef0b3c9d.js",
+    "main.css": "/pixel/static/css/main.1168798f.css",
+    "main.js": "/pixel/static/js/main.46d213b6.js",
     "static/media/zuck.jpg": "/pixel/static/media/zuck.b351c4ca4af6dd988fa4.jpg",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
-    "static/media/moneta-small.png": "/pixel/static/media/moneta-small.fdb0d76d1398a3cd07d3.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
+    "static/media/moneta-small.png": "/pixel/static/media/moneta-small.cf0e58eea16bac33474e.png",
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
     "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
@@ -45,11 +45,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.ea00bb47.css.map": "/pixel/static/css/main.ea00bb47.css.map",
-    "main.ef0b3c9d.js.map": "/pixel/static/js/main.ef0b3c9d.js.map"
+    "main.1168798f.css.map": "/pixel/static/css/main.1168798f.css.map",
+    "main.46d213b6.js.map": "/pixel/static/js/main.46d213b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea00bb47.css",
-    "static/js/main.ef0b3c9d.js"
+    "static/css/main.1168798f.css",
+    "static/js/main.46d213b6.js"
   ]
 }
