@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.3457f065.css",
-    "main.js": "/pixel/static/js/main.87b08234.js",
+    "main.css": "/pixel/static/css/main.cb01460f.css",
+    "main.js": "/pixel/static/js/main.34d71b3a.js",
     "static/media/zuck.jpg": "/pixel/static/media/zuck.b351c4ca4af6dd988fa4.jpg",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
@@ -45,11 +45,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.3457f065.css.map": "/pixel/static/css/main.3457f065.css.map",
-    "main.87b08234.js.map": "/pixel/static/js/main.87b08234.js.map"
+    "main.cb01460f.css.map": "/pixel/static/css/main.cb01460f.css.map",
+    "main.34d71b3a.js.map": "/pixel/static/js/main.34d71b3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.3457f065.css",
-    "static/js/main.87b08234.js"
+    "static/css/main.cb01460f.css",
+    "static/js/main.34d71b3a.js"
   ]
 }
