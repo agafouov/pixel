@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.83229784.css",
-    "main.js": "/pixel/static/js/main.be22d484.js",
-    "static/media/zuck.jpg": "/pixel/static/media/zuck.b351c4ca4af6dd988fa4.jpg",
+    "main.js": "/pixel/static/js/main.6f87812c.js",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
@@ -25,13 +24,15 @@
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
     "static/media/influencer.png": "/pixel/static/media/influencer.89a6424bfdb3e0fce3ae.png",
+    "static/media/cristiano.jpg": "/pixel/static/media/cristiano.6c69fd0d422a1e32394a.jpg",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
     "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
     "static/media/messi.jpg": "/pixel/static/media/messi.f6f14f47741da4c49968.jpg",
-    "static/media/cristiano.jpg": "/pixel/static/media/cristiano.13139b96974dad4f91e0.jpg",
+    "static/media/musk.jpg": "/pixel/static/media/musk.9545f8b0e20c9631db48.jpg",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/level_diamond.png": "/pixel/static/media/level_diamond.36b885d4d1bad6b6489d.png",
     "static/media/level_platinum.png": "/pixel/static/media/level_platinum.c86f6aa782562dcd82ce.png",
+    "static/media/zuck.jpg": "/pixel/static/media/zuck.38b78b8d2d3df32ae750.jpg",
     "static/media/level_silver.png": "/pixel/static/media/level_silver.5b094ee24748a55c37fe.png",
     "static/media/level_gold.png": "/pixel/static/media/level_gold.a0f8b899c711d8fcaaaa.png",
     "static/media/level_bronze.png": "/pixel/static/media/level_bronze.ea69caacdabca3045848.png",
@@ -47,10 +48,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.83229784.css.map": "/pixel/static/css/main.83229784.css.map",
-    "main.be22d484.js.map": "/pixel/static/js/main.be22d484.js.map"
+    "main.6f87812c.js.map": "/pixel/static/js/main.6f87812c.js.map"
   },
   "entrypoints": [
     "static/css/main.83229784.css",
-    "static/js/main.be22d484.js"
+    "static/js/main.6f87812c.js"
   ]
 }
