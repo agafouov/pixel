@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.fb1ba7e1.css",
-    "main.js": "/pixel/static/js/main.e9481e56.js",
+    "main.css": "/pixel/static/css/main.72acf249.css",
+    "main.js": "/pixel/static/js/main.7ef5d351.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -21,7 +21,6 @@
     "static/media/bg-bronze.png": "/pixel/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
-    "static/media/influencer.png": "/pixel/static/media/influencer.89a6424bfdb3e0fce3ae.png",
     "static/media/cristiano.jpg": "/pixel/static/media/cristiano.6c69fd0d422a1e32394a.jpg",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
     "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
@@ -56,11 +55,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.fb1ba7e1.css.map": "/pixel/static/css/main.fb1ba7e1.css.map",
-    "main.e9481e56.js.map": "/pixel/static/js/main.e9481e56.js.map"
+    "main.72acf249.css.map": "/pixel/static/css/main.72acf249.css.map",
+    "main.7ef5d351.js.map": "/pixel/static/js/main.7ef5d351.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb1ba7e1.css",
-    "static/js/main.e9481e56.js"
+    "static/css/main.72acf249.css",
+    "static/js/main.7ef5d351.js"
   ]
 }
