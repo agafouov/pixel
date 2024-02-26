@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.a481a7db.css",
-    "main.js": "/pixel/static/js/main.6ec33f29.js",
+    "main.css": "/pixel/static/css/main.69b92172.css",
+    "main.js": "/pixel/static/js/main.a9426d26.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -9,7 +9,6 @@
     "static/media/icon-coin-small.png": "/pixel/static/media/icon-coin-small.3990be31c6831ce8f402.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.cf0e58eea16bac33474e.png",
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
-    "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
     "static/media/durov.jpg": "/pixel/static/media/durov.7e137be957746a3f1751.jpg",
     "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
@@ -54,11 +53,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.a481a7db.css.map": "/pixel/static/css/main.a481a7db.css.map",
-    "main.6ec33f29.js.map": "/pixel/static/js/main.6ec33f29.js.map"
+    "main.69b92172.css.map": "/pixel/static/css/main.69b92172.css.map",
+    "main.a9426d26.js.map": "/pixel/static/js/main.a9426d26.js.map"
   },
   "entrypoints": [
-    "static/css/main.a481a7db.css",
-    "static/js/main.6ec33f29.js"
+    "static/css/main.69b92172.css",
+    "static/js/main.a9426d26.js"
   ]
 }
