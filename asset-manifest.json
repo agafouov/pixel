@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.093902ea.css",
-    "main.js": "/pixel/static/js/main.f4c07170.js",
+    "main.js": "/pixel/static/js/main.de58cc75.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -26,7 +26,6 @@
     "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
     "static/media/messi.jpg": "/pixel/static/media/messi.f6f14f47741da4c49968.jpg",
     "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
-    "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/level_diamond.png": "/pixel/static/media/level_diamond.36b885d4d1bad6b6489d.png",
     "static/media/level_platinum.png": "/pixel/static/media/level_platinum.c86f6aa782562dcd82ce.png",
@@ -56,10 +55,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.093902ea.css.map": "/pixel/static/css/main.093902ea.css.map",
-    "main.f4c07170.js.map": "/pixel/static/js/main.f4c07170.js.map"
+    "main.de58cc75.js.map": "/pixel/static/js/main.de58cc75.js.map"
   },
   "entrypoints": [
     "static/css/main.093902ea.css",
-    "static/js/main.f4c07170.js"
+    "static/js/main.de58cc75.js"
   ]
 }
