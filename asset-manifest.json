@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.69b92172.css",
-    "main.js": "/pixel/static/js/main.a9426d26.js",
+    "main.css": "/pixel/static/css/main.f0f50a63.css",
+    "main.js": "/pixel/static/js/main.9a36ecae.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -26,6 +26,7 @@
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
     "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
     "static/media/messi.jpg": "/pixel/static/media/messi.f6f14f47741da4c49968.jpg",
+    "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/level_diamond.png": "/pixel/static/media/level_diamond.36b885d4d1bad6b6489d.png",
@@ -41,23 +42,25 @@
     "static/media/dove.png": "/pixel/static/media/dove.5c13224f81d6588ba840.png",
     "static/media/twitter_logo.png": "/pixel/static/media/twitter_logo.46aa1b5dd9aeae7ce33f.png",
     "static/media/musk.jpg": "/pixel/static/media/musk.5776f2ffc188f5c2c7e9.jpg",
+    "static/media/3rd-place-medal.png": "/pixel/static/media/3rd-place-medal.8822027051a4ae35fd74.png",
     "static/media/front-facing-baby-chick.png": "/pixel/static/media/front-facing-baby-chick.2c0355f00c2fd057be7d.png",
     "static/media/fire.png": "/pixel/static/media/fire.a3f436f73c71c388f802.png",
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/soon_bg.jpeg": "/pixel/static/media/soon_bg.a33e11fafcbb0a1f3d53.jpeg",
     "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
+    "static/media/2nd-place-medal.png": "/pixel/static/media/2nd-place-medal.2210ffc1e34addf61b4d.png",
     "static/media/creator.jpg": "/pixel/static/media/creator.f62bc97cbbaafc40a77b.jpg",
     "static/media/demo-ava-12.jpg": "/pixel/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
     "static/media/demo-ava-13.jpg": "/pixel/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.69b92172.css.map": "/pixel/static/css/main.69b92172.css.map",
-    "main.a9426d26.js.map": "/pixel/static/js/main.a9426d26.js.map"
+    "main.f0f50a63.css.map": "/pixel/static/css/main.f0f50a63.css.map",
+    "main.9a36ecae.js.map": "/pixel/static/js/main.9a36ecae.js.map"
   },
   "entrypoints": [
-    "static/css/main.69b92172.css",
-    "static/js/main.a9426d26.js"
+    "static/css/main.f0f50a63.css",
+    "static/js/main.9a36ecae.js"
   ]
 }
