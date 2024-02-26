@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.082df21d.css",
-    "main.js": "/pixel/static/js/main.68b21e30.js",
+    "main.css": "/pixel/static/css/main.141b51f6.css",
+    "main.js": "/pixel/static/js/main.f526ce4f.js",
     "static/media/coin-small.png": "/pixel/static/media/coin-small.d021a4d1ffd4f0a460a1.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
@@ -47,11 +47,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.082df21d.css.map": "/pixel/static/css/main.082df21d.css.map",
-    "main.68b21e30.js.map": "/pixel/static/js/main.68b21e30.js.map"
+    "main.141b51f6.css.map": "/pixel/static/css/main.141b51f6.css.map",
+    "main.f526ce4f.js.map": "/pixel/static/js/main.f526ce4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.082df21d.css",
-    "static/js/main.68b21e30.js"
+    "static/css/main.141b51f6.css",
+    "static/js/main.f526ce4f.js"
   ]
 }
