@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.c87d4191.css",
-    "main.js": "/pixel/static/js/main.718aa358.js",
+    "main.css": "/pixel/static/css/main.d15e646f.css",
+    "main.js": "/pixel/static/js/main.0e50ee6b.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -55,11 +55,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.c87d4191.css.map": "/pixel/static/css/main.c87d4191.css.map",
-    "main.718aa358.js.map": "/pixel/static/js/main.718aa358.js.map"
+    "main.d15e646f.css.map": "/pixel/static/css/main.d15e646f.css.map",
+    "main.0e50ee6b.js.map": "/pixel/static/js/main.0e50ee6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c87d4191.css",
-    "static/js/main.718aa358.js"
+    "static/css/main.d15e646f.css",
+    "static/js/main.0e50ee6b.js"
   ]
 }
