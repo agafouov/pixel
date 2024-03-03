@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.51e237a7.css",
-    "main.js": "/pixel/static/js/main.26185f96.js",
-    "static/media/skin-maximus-coin.png": "/pixel/static/media/skin-maximus-coin.c4294a136587060bce00.png",
+    "main.js": "/pixel/static/js/main.dfc5ffb6.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -54,10 +53,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.51e237a7.css.map": "/pixel/static/css/main.51e237a7.css.map",
-    "main.26185f96.js.map": "/pixel/static/js/main.26185f96.js.map"
+    "main.dfc5ffb6.js.map": "/pixel/static/js/main.dfc5ffb6.js.map"
   },
   "entrypoints": [
     "static/css/main.51e237a7.css",
-    "static/js/main.26185f96.js"
+    "static/js/main.dfc5ffb6.js"
   ]
 }
