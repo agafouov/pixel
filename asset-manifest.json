@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.51e237a7.css",
-    "main.js": "/pixel/static/js/main.fb44918b.js",
+    "main.js": "/pixel/static/js/main.a5e2b642.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
-    "static/media/diamond_with_blur.png": "/pixel/static/media/diamond_with_blur.9c873edd1d617c7feea3.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/icon-coin-small.png": "/pixel/static/media/icon-coin-small.3990be31c6831ce8f402.png",
@@ -54,10 +53,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.51e237a7.css.map": "/pixel/static/css/main.51e237a7.css.map",
-    "main.fb44918b.js.map": "/pixel/static/js/main.fb44918b.js.map"
+    "main.a5e2b642.js.map": "/pixel/static/js/main.a5e2b642.js.map"
   },
   "entrypoints": [
     "static/css/main.51e237a7.css",
-    "static/js/main.fb44918b.js"
+    "static/js/main.a5e2b642.js"
   ]
 }
