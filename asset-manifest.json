@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.51e237a7.css",
-    "main.js": "/pixel/static/js/main.3d589936.js",
+    "main.js": "/pixel/static/js/main.a55ecb2a.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -9,7 +9,6 @@
     "static/media/icon-coin-small.png": "/pixel/static/media/icon-coin-small.3990be31c6831ce8f402.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.cf0e58eea16bac33474e.png",
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
-    "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
     "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
@@ -54,10 +53,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.51e237a7.css.map": "/pixel/static/css/main.51e237a7.css.map",
-    "main.3d589936.js.map": "/pixel/static/js/main.3d589936.js.map"
+    "main.a55ecb2a.js.map": "/pixel/static/js/main.a55ecb2a.js.map"
   },
   "entrypoints": [
     "static/css/main.51e237a7.css",
-    "static/js/main.3d589936.js"
+    "static/js/main.a55ecb2a.js"
   ]
 }
