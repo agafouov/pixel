@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.51e237a7.css",
-    "main.js": "/pixel/static/js/main.a55ecb2a.js",
+    "main.js": "/pixel/static/js/main.920fcf0d.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -14,6 +14,7 @@
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
     "static/media/main-bg-silver.png": "/pixel/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/main-bg-gold.png": "/pixel/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
+    "static/media/skin-fallout.png": "/pixel/static/media/skin-fallout.065a03d4a72dc22343ad.png",
     "static/media/main-bg-platinum.png": "/pixel/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/disco.png": "/pixel/static/media/disco.4ca6ab7ef286c438cfd0.png",
     "static/media/bg-silver.png": "/pixel/static/media/bg-silver.6f820fe308238e207adc.png",
@@ -53,10 +54,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.51e237a7.css.map": "/pixel/static/css/main.51e237a7.css.map",
-    "main.a55ecb2a.js.map": "/pixel/static/js/main.a55ecb2a.js.map"
+    "main.920fcf0d.js.map": "/pixel/static/js/main.920fcf0d.js.map"
   },
   "entrypoints": [
     "static/css/main.51e237a7.css",
-    "static/js/main.a55ecb2a.js"
+    "static/js/main.920fcf0d.js"
   ]
 }
