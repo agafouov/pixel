@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.f9f8eee6.css",
-    "main.js": "/pixel/static/js/main.516f357f.js",
+    "main.css": "/pixel/static/css/main.9f276978.css",
+    "main.js": "/pixel/static/js/main.2ae16db9.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -18,7 +18,6 @@
     "static/media/main-bg-platinum.png": "/pixel/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/disco.png": "/pixel/static/media/disco.4ca6ab7ef286c438cfd0.png",
     "static/media/bg-silver.png": "/pixel/static/media/bg-silver.6f820fe308238e207adc.png",
-    "static/media/skin-crypto.png": "/pixel/static/media/skin-crypto.392b91cbf4b2299467f4.png",
     "static/media/bg-bronze.png": "/pixel/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
@@ -43,7 +42,6 @@
     "static/media/fire.png": "/pixel/static/media/fire.a3f436f73c71c388f802.png",
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
-    "static/media/skin-crypto-bg.png": "/pixel/static/media/skin-crypto-bg.174eedfa63d2049c04d0.png",
     "static/media/wallet.png": "/pixel/static/media/wallet.b2f3e312d0f4466ddd88.png",
     "static/media/soon_bg.jpeg": "/pixel/static/media/soon_bg.a33e11fafcbb0a1f3d53.jpeg",
     "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
@@ -55,11 +53,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.f9f8eee6.css.map": "/pixel/static/css/main.f9f8eee6.css.map",
-    "main.516f357f.js.map": "/pixel/static/js/main.516f357f.js.map"
+    "main.9f276978.css.map": "/pixel/static/css/main.9f276978.css.map",
+    "main.2ae16db9.js.map": "/pixel/static/js/main.2ae16db9.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9f8eee6.css",
-    "static/js/main.516f357f.js"
+    "static/css/main.9f276978.css",
+    "static/js/main.2ae16db9.js"
   ]
 }
