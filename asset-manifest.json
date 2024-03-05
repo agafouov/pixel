@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.ab259cfa.css",
-    "main.js": "/pixel/static/js/main.750c655f.js",
+    "main.css": "/pixel/static/css/main.dcad4d37.css",
+    "main.js": "/pixel/static/js/main.5424a3b6.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -10,8 +10,10 @@
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.cf0e58eea16bac33474e.png",
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
+    "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
     "static/media/main-bg-gold.png": "/pixel/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
+    "static/media/skin-fallout.png": "/pixel/static/media/skin-fallout.065a03d4a72dc22343ad.png",
     "static/media/main-bg-platinum.png": "/pixel/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/disco.png": "/pixel/static/media/disco.4ca6ab7ef286c438cfd0.png",
     "static/media/bg-silver.png": "/pixel/static/media/bg-silver.6f820fe308238e207adc.png",
@@ -52,11 +54,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.ab259cfa.css.map": "/pixel/static/css/main.ab259cfa.css.map",
-    "main.750c655f.js.map": "/pixel/static/js/main.750c655f.js.map"
+    "main.dcad4d37.css.map": "/pixel/static/css/main.dcad4d37.css.map",
+    "main.5424a3b6.js.map": "/pixel/static/js/main.5424a3b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab259cfa.css",
-    "static/js/main.750c655f.js"
+    "static/css/main.dcad4d37.css",
+    "static/js/main.5424a3b6.js"
   ]
 }
