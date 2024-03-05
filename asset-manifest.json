@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.91f1edc9.css",
+    "main.css": "/pixel/static/css/main.169e3467.css",
     "main.js": "/pixel/static/js/main.750c655f.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
@@ -12,7 +12,6 @@
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
     "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
-    "static/media/main-bg-silver.png": "/pixel/static/media/main-bg-silver.feabcff82a05bacbba37.png",
     "static/media/main-bg-gold.png": "/pixel/static/media/main-bg-gold.f6b878a7dcdbf1582413.png",
     "static/media/main-bg-platinum.png": "/pixel/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/disco.png": "/pixel/static/media/disco.4ca6ab7ef286c438cfd0.png",
@@ -54,11 +53,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.91f1edc9.css.map": "/pixel/static/css/main.91f1edc9.css.map",
+    "main.169e3467.css.map": "/pixel/static/css/main.169e3467.css.map",
     "main.750c655f.js.map": "/pixel/static/js/main.750c655f.js.map"
   },
   "entrypoints": [
-    "static/css/main.91f1edc9.css",
+    "static/css/main.169e3467.css",
     "static/js/main.750c655f.js"
   ]
 }
