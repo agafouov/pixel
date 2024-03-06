@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.c1389e81.css",
-    "main.js": "/pixel/static/js/main.7106b284.js",
+    "main.css": "/pixel/static/css/main.faaece95.css",
+    "main.js": "/pixel/static/js/main.c65698b0.js",
     "static/media/skin-pixelcoin-bg.png": "/pixel/static/media/skin-pixelcoin-bg.558818066d99814f84bf.png",
     "static/media/skin-pixelcoin-bg-wallet.png": "/pixel/static/media/skin-pixelcoin-bg-wallet.c3351295b3a9a81e4b1a.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
@@ -28,6 +28,7 @@
     "static/media/bg-bronze.png": "/pixel/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
+    "static/media/squad-battle-bg.png": "/pixel/static/media/squad-battle-bg.b920abb0e20a74f5359c.png",
     "static/media/money-with-wings.png": "/pixel/static/media/money-with-wings.bb5b4a609885e7bd93e3.png",
     "static/media/main-bg-pizza.jpg": "/pixel/static/media/main-bg-pizza.83d010d08d43f883d3b0.jpg",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
@@ -64,11 +65,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.c1389e81.css.map": "/pixel/static/css/main.c1389e81.css.map",
-    "main.7106b284.js.map": "/pixel/static/js/main.7106b284.js.map"
+    "main.faaece95.css.map": "/pixel/static/css/main.faaece95.css.map",
+    "main.c65698b0.js.map": "/pixel/static/js/main.c65698b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1389e81.css",
-    "static/js/main.7106b284.js"
+    "static/css/main.faaece95.css",
+    "static/js/main.c65698b0.js"
   ]
 }
