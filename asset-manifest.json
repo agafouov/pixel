@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.eecccec0.css",
-    "main.js": "/pixel/static/js/main.11c86e67.js",
+    "main.js": "/pixel/static/js/main.ef56aa63.js",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
@@ -25,6 +25,7 @@
     "static/media/bg-bronze.png": "/pixel/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
+    "static/media/money-with-wings.png": "/pixel/static/media/money-with-wings.bb5b4a609885e7bd93e3.png",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
     "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
     "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
@@ -60,10 +61,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.eecccec0.css.map": "/pixel/static/css/main.eecccec0.css.map",
-    "main.11c86e67.js.map": "/pixel/static/js/main.11c86e67.js.map"
+    "main.ef56aa63.js.map": "/pixel/static/js/main.ef56aa63.js.map"
   },
   "entrypoints": [
     "static/css/main.eecccec0.css",
-    "static/js/main.11c86e67.js"
+    "static/js/main.ef56aa63.js"
   ]
 }
