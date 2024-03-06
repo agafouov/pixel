@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.eecccec0.css",
-    "main.js": "/pixel/static/js/main.7345bd14.js",
+    "main.css": "/pixel/static/css/main.8f9bf2c3.css",
+    "main.js": "/pixel/static/js/main.33921cd2.js",
+    "static/media/zen-bg-1.png": "/pixel/static/media/zen-bg-1.558818066d99814f84bf.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
-    "static/media/gta_bg.png": "/pixel/static/media/gta_bg.1766b76dccb25e672e25.png",
+    "static/media/main-bg-cookie.jpg": "/pixel/static/media/main-bg-cookie.e9342b580245965fd5c7.jpg",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/skin-pizza.png": "/pixel/static/media/skin-pizza.1ec8cc92a3dcaf9b8258.png",
     "static/media/icon-coin-small.png": "/pixel/static/media/icon-coin-small.3990be31c6831ce8f402.png",
@@ -20,14 +21,16 @@
     "static/media/main-bg-platinum.png": "/pixel/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/disco.png": "/pixel/static/media/disco.4ca6ab7ef286c438cfd0.png",
     "static/media/skin-galleon.png": "/pixel/static/media/skin-galleon.3514d1e7cf8f3c31849c.png",
+    "static/media/skin-punks.png": "/pixel/static/media/skin-punks.373b84cbc038df9faa79.png",
     "static/media/bg-silver.png": "/pixel/static/media/bg-silver.6f820fe308238e207adc.png",
-    "static/media/skin-crypto.png": "/pixel/static/media/skin-crypto.392b91cbf4b2299467f4.png",
+    "static/media/skin-pixelcoin1.png": "/pixel/static/media/skin-pixelcoin1.392b91cbf4b2299467f4.png",
     "static/media/bg-bronze.png": "/pixel/static/media/bg-bronze.ac5365f5980c4859114d.png",
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
     "static/media/money-with-wings.png": "/pixel/static/media/money-with-wings.bb5b4a609885e7bd93e3.png",
+    "static/media/main-bg-pizza.jpg": "/pixel/static/media/main-bg-pizza.83d010d08d43f883d3b0.jpg",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
-    "static/media/main-bg-eggs.png": "/pixel/static/media/main-bg-eggs.4efec14eee0336bb3fa4.png",
+    "static/media/skin-pirates.png": "/pixel/static/media/skin-pirates.21cc8d33f0e8153f902f.png",
     "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
@@ -50,21 +53,21 @@
     "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/skin-crypto-bg.png": "/pixel/static/media/skin-crypto-bg.174eedfa63d2049c04d0.png",
     "static/media/wallet.png": "/pixel/static/media/wallet.b2f3e312d0f4466ddd88.png",
-    "static/media/soon_bg.jpeg": "/pixel/static/media/soon_bg.a33e11fafcbb0a1f3d53.jpeg",
     "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
     "static/media/2nd-place-medal.png": "/pixel/static/media/2nd-place-medal.2210ffc1e34addf61b4d.png",
     "static/media/creator.jpg": "/pixel/static/media/creator.f62bc97cbbaafc40a77b.jpg",
     "static/media/demo-ava-12.jpg": "/pixel/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
     "static/media/demo-ava-13.jpg": "/pixel/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
+    "static/media/skin-pixelcoin.png": "/pixel/static/media/skin-pixelcoin.b63e90e744ded3cbd6b3.png",
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.eecccec0.css.map": "/pixel/static/css/main.eecccec0.css.map",
-    "main.7345bd14.js.map": "/pixel/static/js/main.7345bd14.js.map"
+    "main.8f9bf2c3.css.map": "/pixel/static/css/main.8f9bf2c3.css.map",
+    "main.33921cd2.js.map": "/pixel/static/js/main.33921cd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.eecccec0.css",
-    "static/js/main.7345bd14.js"
+    "static/css/main.8f9bf2c3.css",
+    "static/js/main.33921cd2.js"
   ]
 }
