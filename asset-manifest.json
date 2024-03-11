@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.e57e5fc3.css",
-    "main.js": "/pixel/static/js/main.67e2fe2c.js",
+    "main.css": "/pixel/static/css/main.68ca6dce.css",
+    "main.js": "/pixel/static/js/main.8a53fbd1.js",
+    "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
+    "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
+    "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
     "static/media/skin-pixelcoin-bg2.png": "/pixel/static/media/skin-pixelcoin-bg2.558818066d99814f84bf.png",
+    "static/media/turbo8-ticker.png": "/pixel/static/media/turbo8-ticker.3f670a5d683003fc93e1.png",
     "static/media/skin-pixelcoin-bg.png": "/pixel/static/media/skin-pixelcoin-bg.34808707cbca076d77e8.png",
-    "static/media/ticker-coins.png": "/pixel/static/media/ticker-coins.94ca1fbc09a75655de6e.png",
+    "static/media/turbo6-ticker.png": "/pixel/static/media/turbo6-ticker.a4b668681a706830c6a5.png",
+    "static/media/turbo5-ticker.png": "/pixel/static/media/turbo5-ticker.b80895d568941b40c49f.png",
+    "static/media/turbo3-ticker.png": "/pixel/static/media/turbo3-ticker.79fcfab13c5ffeb3e6d3.png",
+    "static/media/turbo-ticker.png": "/pixel/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
+    "static/media/turbo7-ticker.png": "/pixel/static/media/turbo7-ticker.a2422b531a2f7ffe7e8b.png",
     "static/media/skin-pixelcoin-bg-wallet1.png": "/pixel/static/media/skin-pixelcoin-bg-wallet1.c3351295b3a9a81e4b1a.png",
     "static/media/skin-pizza-back.png": "/pixel/static/media/skin-pizza-back.b5ee96410ba02ff4f0d3.png",
     "static/media/skin-pixelcoin-bg-wallet.png": "/pixel/static/media/skin-pixelcoin-bg-wallet.4dcfaab9b8a91e7c6bb4.png",
@@ -80,11 +88,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.e57e5fc3.css.map": "/pixel/static/css/main.e57e5fc3.css.map",
-    "main.67e2fe2c.js.map": "/pixel/static/js/main.67e2fe2c.js.map"
+    "main.68ca6dce.css.map": "/pixel/static/css/main.68ca6dce.css.map",
+    "main.8a53fbd1.js.map": "/pixel/static/js/main.8a53fbd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e57e5fc3.css",
-    "static/js/main.67e2fe2c.js"
+    "static/css/main.68ca6dce.css",
+    "static/js/main.8a53fbd1.js"
   ]
 }
