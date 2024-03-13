@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.f10d43e0.css",
-    "main.js": "/pixel/static/js/main.ecd44cc1.js",
+    "main.js": "/pixel/static/js/main.42b5b2fe.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -49,11 +49,13 @@
     "static/media/bg-influencer.png": "/pixel/static/media/bg-influencer.18d0b98509b0040c7b99.png",
     "static/media/bg-diamond.png": "/pixel/static/media/bg-diamond.610200c56a784eca5618.png",
     "static/media/squad-battle-bg.png": "/pixel/static/media/squad-battle-bg.b920abb0e20a74f5359c.png",
+    "static/media/money-with-wings.png": "/pixel/static/media/money-with-wings.bb5b4a609885e7bd93e3.png",
     "static/media/main-bg-pizza.jpg": "/pixel/static/media/main-bg-pizza.83d010d08d43f883d3b0.jpg",
     "static/media/bg-gold.png": "/pixel/static/media/bg-gold.263c2fbc329782a96984.png",
     "static/media/turbo5.png": "/pixel/static/media/turbo5.c5600ad8833a1146550f.png",
     "static/media/turbo3.png": "/pixel/static/media/turbo3.d94af636ae59fa461fd6.png",
     "static/media/skin-pirates.png": "/pixel/static/media/skin-pirates.21cc8d33f0e8153f902f.png",
+    "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/rocket.png": "/pixel/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
@@ -78,6 +80,7 @@
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/skin-pixelcoin-bg-wallet2.png": "/pixel/static/media/skin-pixelcoin-bg-wallet2.174eedfa63d2049c04d0.png",
+    "static/media/wallet.png": "/pixel/static/media/wallet.b2f3e312d0f4466ddd88.png",
     "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
     "static/media/2nd-place-medal.png": "/pixel/static/media/2nd-place-medal.2210ffc1e34addf61b4d.png",
@@ -88,10 +91,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.f10d43e0.css.map": "/pixel/static/css/main.f10d43e0.css.map",
-    "main.ecd44cc1.js.map": "/pixel/static/js/main.ecd44cc1.js.map"
+    "main.42b5b2fe.js.map": "/pixel/static/js/main.42b5b2fe.js.map"
   },
   "entrypoints": [
     "static/css/main.f10d43e0.css",
-    "static/js/main.ecd44cc1.js"
+    "static/js/main.42b5b2fe.js"
   ]
 }
