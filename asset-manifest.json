@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.8e15ef9b.css",
-    "main.js": "/pixel/static/js/main.2e354b6e.js",
+    "main.css": "/pixel/static/css/main.d8a4835f.css",
+    "main.js": "/pixel/static/js/main.da103821.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -31,7 +31,7 @@
     "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/turbo6.png": "/pixel/static/media/turbo6.87058fdc5e485d1cd453.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
-    "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.9c787bb21e80ddda1800.png",
+    "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
     "static/media/main-bg-diamond.png": "/pixel/static/media/main-bg-diamond.ebf689a9679a70c474f2.png",
     "static/media/turbo1.png": "/pixel/static/media/turbo1.8574e091aeecaca8c62a.png",
     "static/media/main-bg-silver.png": "/pixel/static/media/main-bg-silver.feabcff82a05bacbba37.png",
@@ -90,11 +90,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.8e15ef9b.css.map": "/pixel/static/css/main.8e15ef9b.css.map",
-    "main.2e354b6e.js.map": "/pixel/static/js/main.2e354b6e.js.map"
+    "main.d8a4835f.css.map": "/pixel/static/css/main.d8a4835f.css.map",
+    "main.da103821.js.map": "/pixel/static/js/main.da103821.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e15ef9b.css",
-    "static/js/main.2e354b6e.js"
+    "static/css/main.d8a4835f.css",
+    "static/js/main.da103821.js"
   ]
 }
