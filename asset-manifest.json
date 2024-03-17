@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.d8a4835f.css",
-    "main.js": "/pixel/static/js/main.25b758e8.js",
+    "main.css": "/pixel/static/css/main.c321e462.css",
+    "main.js": "/pixel/static/js/main.0aed4223.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -71,7 +71,6 @@
     "static/media/level_bronze.png": "/pixel/static/media/level_bronze.ea69caacdabca3045848.png",
     "static/media/skin-pixelcoin2.png": "/pixel/static/media/skin-pixelcoin2.6098bbfd0c6c9e1091ad.png",
     "static/media/main-bg-fallout.jpg": "/pixel/static/media/main-bg-fallout.78cca8bb535a45947184.jpg",
-    "static/media/dove.png": "/pixel/static/media/dove.5c13224f81d6588ba840.png",
     "static/media/twitter_logo.png": "/pixel/static/media/twitter_logo.46aa1b5dd9aeae7ce33f.png",
     "static/media/3rd-place-medal.png": "/pixel/static/media/3rd-place-medal.8822027051a4ae35fd74.png",
     "static/media/turbo2.png": "/pixel/static/media/turbo2.261d7c74399c47c2e1f0.png",
@@ -90,11 +89,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.d8a4835f.css.map": "/pixel/static/css/main.d8a4835f.css.map",
-    "main.25b758e8.js.map": "/pixel/static/js/main.25b758e8.js.map"
+    "main.c321e462.css.map": "/pixel/static/css/main.c321e462.css.map",
+    "main.0aed4223.js.map": "/pixel/static/js/main.0aed4223.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8a4835f.css",
-    "static/js/main.25b758e8.js"
+    "static/css/main.c321e462.css",
+    "static/js/main.0aed4223.js"
   ]
 }
