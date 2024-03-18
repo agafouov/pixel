@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.c321e462.css",
-    "main.js": "/pixel/static/js/main.4b71f533.js",
+    "main.css": "/pixel/static/css/main.ea0835d8.css",
+    "main.js": "/pixel/static/js/main.31794f42.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -13,13 +13,23 @@
     "static/media/turbo3-ticker.png": "/pixel/static/media/turbo3-ticker.79fcfab13c5ffeb3e6d3.png",
     "static/media/turbo-ticker.png": "/pixel/static/media/turbo-ticker.94ca1fbc09a75655de6e.png",
     "static/media/turbo7-ticker.png": "/pixel/static/media/turbo7-ticker.a2422b531a2f7ffe7e8b.png",
+    "static/media/Bronze-95.png": "/pixel/static/media/Bronze-95.2deeb2367eb92935a32a.png",
+    "static/media/level_bronze.png": "/pixel/static/media/level_bronze.2deeb2367eb92935a32a.png",
     "static/media/skin-pixelcoin-bg-wallet1.png": "/pixel/static/media/skin-pixelcoin-bg-wallet1.c3351295b3a9a81e4b1a.png",
     "static/media/skin-pizza-back.png": "/pixel/static/media/skin-pizza-back.b5ee96410ba02ff4f0d3.png",
+    "static/media/Gold-95.png": "/pixel/static/media/Gold-95.cc0047792eb62a5880e0.png",
+    "static/media/level_gold.png": "/pixel/static/media/level_gold.cc0047792eb62a5880e0.png",
     "static/media/skin-pixelcoin-bg-wallet.png": "/pixel/static/media/skin-pixelcoin-bg-wallet.4dcfaab9b8a91e7c6bb4.png",
     "static/media/turbo8.png": "/pixel/static/media/turbo8.450c30749ba89a4909d9.png",
+    "static/media/Silver-95.png": "/pixel/static/media/Silver-95.8612f14505f7a732c42b.png",
+    "static/media/level_silver.png": "/pixel/static/media/level_silver.8612f14505f7a732c42b.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
+    "static/media/Diamond-95.png": "/pixel/static/media/Diamond-95.2a0af564cd2f2c5b3d60.png",
+    "static/media/level_diamond.png": "/pixel/static/media/level_diamond.2a0af564cd2f2c5b3d60.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/skin-cookie-back.png": "/pixel/static/media/skin-cookie-back.531bcf551dd35604ecb7.png",
+    "static/media/Platinum-95.png": "/pixel/static/media/Platinum-95.cc4fcbd0e3f4a57dedc5.png",
+    "static/media/level_platinum.png": "/pixel/static/media/level_platinum.cc4fcbd0e3f4a57dedc5.png",
     "static/media/main-bg-cookie.jpg": "/pixel/static/media/main-bg-cookie.e9342b580245965fd5c7.jpg",
     "static/media/turbo7.png": "/pixel/static/media/turbo7.cd9edd7043e94aa53adc.png",
     "static/media/turbo-ticker2.png": "/pixel/static/media/turbo-ticker2.d5cb47195859b30d0937.png",
@@ -59,16 +69,11 @@
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/rocket.png": "/pixel/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
-    "static/media/level_diamond.png": "/pixel/static/media/level_diamond.36b885d4d1bad6b6489d.png",
-    "static/media/level_platinum.png": "/pixel/static/media/level_platinum.c86f6aa782562dcd82ce.png",
     "static/media/hatching-chick.png": "/pixel/static/media/hatching-chick.20fd44210e72b40b9020.png",
     "static/media/grinning-squinting-face.png": "/pixel/static/media/grinning-squinting-face.45c3f8554905aee35252.png",
     "static/media/crown.png": "/pixel/static/media/crown.928659773dad19049711.png",
     "static/media/dragon_coin_with_gradient.png": "/pixel/static/media/dragon_coin_with_gradient.4b08a18698665c0cf88b.png",
     "static/media/gem.png": "/pixel/static/media/gem.183426d01888f1df21ff.png",
-    "static/media/level_silver.png": "/pixel/static/media/level_silver.5b094ee24748a55c37fe.png",
-    "static/media/level_gold.png": "/pixel/static/media/level_gold.a0f8b899c711d8fcaaaa.png",
-    "static/media/level_bronze.png": "/pixel/static/media/level_bronze.ea69caacdabca3045848.png",
     "static/media/skin-pixelcoin2.png": "/pixel/static/media/skin-pixelcoin2.6098bbfd0c6c9e1091ad.png",
     "static/media/main-bg-fallout.jpg": "/pixel/static/media/main-bg-fallout.78cca8bb535a45947184.jpg",
     "static/media/twitter_logo.png": "/pixel/static/media/twitter_logo.46aa1b5dd9aeae7ce33f.png",
@@ -89,11 +94,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.c321e462.css.map": "/pixel/static/css/main.c321e462.css.map",
-    "main.4b71f533.js.map": "/pixel/static/js/main.4b71f533.js.map"
+    "main.ea0835d8.css.map": "/pixel/static/css/main.ea0835d8.css.map",
+    "main.31794f42.js.map": "/pixel/static/js/main.31794f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.c321e462.css",
-    "static/js/main.4b71f533.js"
+    "static/css/main.ea0835d8.css",
+    "static/js/main.31794f42.js"
   ]
 }
