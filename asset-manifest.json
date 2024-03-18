@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.e0fed906.css",
+    "main.css": "/pixel/static/css/main.732a769f.css",
     "main.js": "/pixel/static/js/main.31794f42.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
@@ -17,20 +17,20 @@
     "static/media/skin-pixelcoin-bg-wallet1.png": "/pixel/static/media/skin-pixelcoin-bg-wallet1.c3351295b3a9a81e4b1a.png",
     "static/media/skin-pizza-back.png": "/pixel/static/media/skin-pizza-back.b5ee96410ba02ff4f0d3.png",
     "static/media/Gold-95.png": "/pixel/static/media/Gold-95.cc0047792eb62a5880e0.png",
+    "static/media/level_diamond.png": "/pixel/static/media/level_diamond.e1e9342dc3c3ea80990d.png",
     "static/media/level_gold.png": "/pixel/static/media/level_gold.1172bcc5da59d2d98207.png",
     "static/media/skin-pixelcoin-bg-wallet.png": "/pixel/static/media/skin-pixelcoin-bg-wallet.4dcfaab9b8a91e7c6bb4.png",
     "static/media/level_bronze.png": "/pixel/static/media/level_bronze.42cfc0d269f655b74625.png",
-    "static/media/level_diamond.png": "/pixel/static/media/level_diamond.91b69fd0c5880f4d1b8f.png",
     "static/media/turbo8.png": "/pixel/static/media/turbo8.450c30749ba89a4909d9.png",
     "static/media/Silver-95.png": "/pixel/static/media/Silver-95.8612f14505f7a732c42b.png",
     "static/media/skin-dragon.png": "/pixel/static/media/skin-dragon.0cbab4bfc1074767da32.png",
     "static/media/Diamond-95.png": "/pixel/static/media/Diamond-95.2a0af564cd2f2c5b3d60.png",
+    "static/media/level_platinum.png": "/pixel/static/media/level_platinum.9dea2d0187f3757e29fb.png",
     "static/media/pixelcoin_qr.png": "/pixel/static/media/pixelcoin_qr.b308542308443c205a7b.png",
     "static/media/level_silver.png": "/pixel/static/media/level_silver.85dda5064f25206703c6.png",
     "static/media/skin-cookie-back.png": "/pixel/static/media/skin-cookie-back.531bcf551dd35604ecb7.png",
     "static/media/Platinum-95.png": "/pixel/static/media/Platinum-95.cc4fcbd0e3f4a57dedc5.png",
     "static/media/main-bg-cookie.jpg": "/pixel/static/media/main-bg-cookie.e9342b580245965fd5c7.jpg",
-    "static/media/level_platinum.png": "/pixel/static/media/level_platinum.f439547d10b4e59217a0.png",
     "static/media/turbo7.png": "/pixel/static/media/turbo7.cd9edd7043e94aa53adc.png",
     "static/media/turbo-ticker2.png": "/pixel/static/media/turbo-ticker2.d5cb47195859b30d0937.png",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
@@ -94,11 +94,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.e0fed906.css.map": "/pixel/static/css/main.e0fed906.css.map",
+    "main.732a769f.css.map": "/pixel/static/css/main.732a769f.css.map",
     "main.31794f42.js.map": "/pixel/static/js/main.31794f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0fed906.css",
+    "static/css/main.732a769f.css",
     "static/js/main.31794f42.js"
   ]
 }
