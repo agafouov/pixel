@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.2d93658d.css",
-    "main.js": "/pixel/static/js/main.c2df1324.js",
+    "main.js": "/pixel/static/js/main.0d3f896a.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -64,6 +64,7 @@
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/rocket.png": "/pixel/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
+    "static/media/gift.png": "/pixel/static/media/gift.48143dc22ccff4ffc158.png",
     "static/media/hatching-chick.png": "/pixel/static/media/hatching-chick.20fd44210e72b40b9020.png",
     "static/media/grinning-squinting-face.png": "/pixel/static/media/grinning-squinting-face.45c3f8554905aee35252.png",
     "static/media/crown.png": "/pixel/static/media/crown.928659773dad19049711.png",
@@ -95,10 +96,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.2d93658d.css.map": "/pixel/static/css/main.2d93658d.css.map",
-    "main.c2df1324.js.map": "/pixel/static/js/main.c2df1324.js.map"
+    "main.0d3f896a.js.map": "/pixel/static/js/main.0d3f896a.js.map"
   },
   "entrypoints": [
     "static/css/main.2d93658d.css",
-    "static/js/main.c2df1324.js"
+    "static/js/main.0d3f896a.js"
   ]
 }
