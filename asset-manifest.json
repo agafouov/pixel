@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.2d93658d.css",
-    "main.js": "/pixel/static/js/main.99080aca.js",
+    "main.css": "/pixel/static/css/main.2999f6f8.css",
+    "main.js": "/pixel/static/js/main.121292db.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -66,6 +66,7 @@
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/gift.png": "/pixel/static/media/gift.48143dc22ccff4ffc158.png",
     "static/media/hatching-chick.png": "/pixel/static/media/hatching-chick.20fd44210e72b40b9020.png",
+    "static/media/waving-hand.png": "/pixel/static/media/waving-hand.ec33146df183e86a22e3.png",
     "static/media/grinning-squinting-face.png": "/pixel/static/media/grinning-squinting-face.45c3f8554905aee35252.png",
     "static/media/crown.png": "/pixel/static/media/crown.928659773dad19049711.png",
     "static/media/dragon_coin_with_gradient.png": "/pixel/static/media/dragon_coin_with_gradient.4b08a18698665c0cf88b.png",
@@ -81,6 +82,7 @@
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb4.svg",
     "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/skin-pixelcoin-bg-wallet2.png": "/pixel/static/media/skin-pixelcoin-bg-wallet2.174eedfa63d2049c04d0.png",
+    "static/media/bird.png": "/pixel/static/media/bird.d99dede94d9ebe48ceb3.png",
     "static/media/wallet.png": "/pixel/static/media/wallet.b2f3e312d0f4466ddd88.png",
     "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
@@ -95,11 +97,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.2d93658d.css.map": "/pixel/static/css/main.2d93658d.css.map",
-    "main.99080aca.js.map": "/pixel/static/js/main.99080aca.js.map"
+    "main.2999f6f8.css.map": "/pixel/static/css/main.2999f6f8.css.map",
+    "main.121292db.js.map": "/pixel/static/js/main.121292db.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d93658d.css",
-    "static/js/main.99080aca.js"
+    "static/css/main.2999f6f8.css",
+    "static/js/main.121292db.js"
   ]
 }
