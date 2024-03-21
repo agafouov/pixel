@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.1c38d3b8.css",
-    "main.js": "/pixel/static/js/main.e4b1eb62.js",
+    "main.css": "/pixel/static/css/main.d4203767.css",
+    "main.js": "/pixel/static/js/main.5d2e4deb.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -97,11 +97,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.1c38d3b8.css.map": "/pixel/static/css/main.1c38d3b8.css.map",
-    "main.e4b1eb62.js.map": "/pixel/static/js/main.e4b1eb62.js.map"
+    "main.d4203767.css.map": "/pixel/static/css/main.d4203767.css.map",
+    "main.5d2e4deb.js.map": "/pixel/static/js/main.5d2e4deb.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c38d3b8.css",
-    "static/js/main.e4b1eb62.js"
+    "static/css/main.d4203767.css",
+    "static/js/main.5d2e4deb.js"
   ]
 }
