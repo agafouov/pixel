@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.9189e8fd.css",
-    "main.js": "/pixel/static/js/main.3aa567fd.js",
+    "main.css": "/pixel/static/css/main.3188827a.css",
+    "main.js": "/pixel/static/js/main.c35fb4d2.js",
     "static/media/turbo4-ticker.png": "/pixel/static/media/turbo4-ticker.f6f56d5d34343ccfea08.png",
     "static/media/turbo1-ticker.png": "/pixel/static/media/turbo1-ticker.0edd5e0b41f11cb4aaac.png",
     "static/media/turbo2-ticker.png": "/pixel/static/media/turbo2-ticker.d962edb21cbf97feadeb.png",
@@ -79,7 +79,7 @@
     "static/media/turbo2.png": "/pixel/static/media/turbo2.261d7c74399c47c2e1f0.png",
     "static/media/front-facing-baby-chick.png": "/pixel/static/media/front-facing-baby-chick.2c0355f00c2fd057be7d.png",
     "static/media/fire.png": "/pixel/static/media/fire.a3f436f73c71c388f802.png",
-    "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb4.svg",
+    "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb486e6a7ebb10a.svg",
     "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/skin-pixelcoin-bg-wallet2.png": "/pixel/static/media/skin-pixelcoin-bg-wallet2.174eedfa63d2049c04d0.png",
     "static/media/bird.png": "/pixel/static/media/bird.d99dede94d9ebe48ceb3.png",
@@ -97,11 +97,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.9189e8fd.css.map": "/pixel/static/css/main.9189e8fd.css.map",
-    "main.3aa567fd.js.map": "/pixel/static/js/main.3aa567fd.js.map"
+    "main.3188827a.css.map": "/pixel/static/css/main.3188827a.css.map",
+    "main.c35fb4d2.js.map": "/pixel/static/js/main.c35fb4d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9189e8fd.css",
-    "static/js/main.3aa567fd.js"
+    "static/css/main.3188827a.css",
+    "static/js/main.c35fb4d2.js"
   ]
 }
