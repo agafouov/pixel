@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pixel/static/css/main.8030b3ea.css",
-    "main.js": "/pixel/static/js/main.2555fc60.js",
+    "main.js": "/pixel/static/js/main.bbb61666.js",
     "static/media/turbo5-ticker.png": "/pixel/static/media/turbo5-ticker.a1fa6b8074bf310783bc.png",
     "static/media/turbo8-ticker.png": "/pixel/static/media/turbo8-ticker.3f670a5d683003fc93e1.png",
     "static/media/skin-pixelcoin-bg.png": "/pixel/static/media/skin-pixelcoin-bg.34808707cbca076d77e8.png",
@@ -24,6 +24,7 @@
     "static/media/skin-cookie-back.png": "/pixel/static/media/skin-cookie-back.531bcf551dd35604ecb7.png",
     "static/media/main-bg-cookie.jpg": "/pixel/static/media/main-bg-cookie.e9342b580245965fd5c7.jpg",
     "static/media/level_platinum.png": "/pixel/static/media/level_platinum.edd80394ab37412811ed.png",
+    "static/media/skin-telegram-bg.png": "/pixel/static/media/skin-telegram-bg.7f876d4b1ad476abd66a.png",
     "static/media/turbo6-ticker.png": "/pixel/static/media/turbo6-ticker.815cecaf34c50275cc27.png",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
     "static/media/skin-pizza.png": "/pixel/static/media/skin-pizza.1ec8cc92a3dcaf9b8258.png",
@@ -57,7 +58,6 @@
     "static/media/turbo1.png": "/pixel/static/media/turbo1.3fc4c6d242aeeb054b50.png",
     "static/media/turbo3.png": "/pixel/static/media/turbo3.aed72e33e835f3df2242.png",
     "static/media/turbo6.png": "/pixel/static/media/turbo6.30f43fac07b628387aea.png",
-    "static/media/skin-pirates.png": "/pixel/static/media/skin-pirates.21cc8d33f0e8153f902f.png",
     "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
     "static/media/rocket.png": "/pixel/static/media/rocket.d16b8a552d844f705877.png",
@@ -84,6 +84,7 @@
     "static/media/creator.jpg": "/pixel/static/media/creator.f62bc97cbbaafc40a77b.jpg",
     "static/media/Diamond-95.png": "/pixel/static/media/Diamond-95.861aa794bb5062a92a8a.png",
     "static/media/Silver-95.png": "/pixel/static/media/Silver-95.02bb1880dc18d9f64fed.png",
+    "static/media/skin-telegram-coin.png": "/pixel/static/media/skin-telegram-coin.a1b5f4495e6ecfa7b38e.png",
     "static/media/demo-ava-12.jpg": "/pixel/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
     "static/media/sparkles.png": "/pixel/static/media/sparkles.429b3a16c5f71c5a99fc.png",
     "static/media/demo-ava-13.jpg": "/pixel/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
@@ -92,10 +93,10 @@
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
     "main.8030b3ea.css.map": "/pixel/static/css/main.8030b3ea.css.map",
-    "main.2555fc60.js.map": "/pixel/static/js/main.2555fc60.js.map"
+    "main.bbb61666.js.map": "/pixel/static/js/main.bbb61666.js.map"
   },
   "entrypoints": [
     "static/css/main.8030b3ea.css",
-    "static/js/main.2555fc60.js"
+    "static/js/main.bbb61666.js"
   ]
 }
