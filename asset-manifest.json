@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.accd6acb.css",
-    "main.js": "/pixel/static/js/main.5c915a7f.js",
+    "main.css": "/pixel/static/css/main.afdb1920.css",
+    "main.js": "/pixel/static/js/main.96c688c2.js",
     "static/media/turbo5-ticker.png": "/pixel/static/media/turbo5-ticker.a1fa6b8074bf310783bc.png",
     "static/media/turbo8-ticker.png": "/pixel/static/media/turbo8-ticker.3f670a5d683003fc93e1.png",
     "static/media/skin-pixelcoin-bg.png": "/pixel/static/media/skin-pixelcoin-bg.34808707cbca076d77e8.png",
@@ -93,11 +93,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.accd6acb.css.map": "/pixel/static/css/main.accd6acb.css.map",
-    "main.5c915a7f.js.map": "/pixel/static/js/main.5c915a7f.js.map"
+    "main.afdb1920.css.map": "/pixel/static/css/main.afdb1920.css.map",
+    "main.96c688c2.js.map": "/pixel/static/js/main.96c688c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.accd6acb.css",
-    "static/js/main.5c915a7f.js"
+    "static/css/main.afdb1920.css",
+    "static/js/main.96c688c2.js"
   ]
 }
