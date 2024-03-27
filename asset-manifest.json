@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.a1babaf8.css",
-    "main.js": "/pixel/static/js/main.19b6c2ac.js",
+    "main.css": "/pixel/static/css/main.3bf87429.css",
+    "main.js": "/pixel/static/js/main.9936b998.js",
     "static/media/turbo5-ticker.png": "/pixel/static/media/turbo5-ticker.a1fa6b8074bf310783bc.png",
     "static/media/turbo8-ticker.png": "/pixel/static/media/turbo8-ticker.3f670a5d683003fc93e1.png",
     "static/media/skin-pixelcoin-bg.png": "/pixel/static/media/skin-pixelcoin-bg.34808707cbca076d77e8.png",
@@ -14,6 +14,7 @@
     "static/media/level_gold.png": "/pixel/static/media/level_gold.1172bcc5da59d2d98207.png",
     "static/media/skin-pixelcoin-bg-wallet.png": "/pixel/static/media/skin-pixelcoin-bg-wallet.4dcfaab9b8a91e7c6bb4.png",
     "static/media/level_bronze.png": "/pixel/static/media/level_bronze.42cfc0d269f655b74625.png",
+    "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.d1ce5f6ff124ec3e253f.jpg",
     "static/media/turbo7-ticker.png": "/pixel/static/media/turbo7-ticker.7d198e93e05bc8b2d6e3.png",
     "static/media/level_diamond.png": "/pixel/static/media/level_diamond.d3c63df8486441de25ca.png",
     "static/media/turbo8.png": "/pixel/static/media/turbo8.450c30749ba89a4909d9.png",
@@ -24,9 +25,9 @@
     "static/media/skin-cookie-back.png": "/pixel/static/media/skin-cookie-back.531bcf551dd35604ecb7.png",
     "static/media/main-bg-cookie.jpg": "/pixel/static/media/main-bg-cookie.e9342b580245965fd5c7.jpg",
     "static/media/level_platinum.png": "/pixel/static/media/level_platinum.edd80394ab37412811ed.png",
-    "static/media/skin-telegram-bg.png": "/pixel/static/media/skin-telegram-bg.7f876d4b1ad476abd66a.png",
     "static/media/turbo6-ticker.png": "/pixel/static/media/turbo6-ticker.815cecaf34c50275cc27.png",
     "static/media/dragon_bg_gradient.png": "/pixel/static/media/dragon_bg_gradient.c781410b4ca0e2972740.png",
+    "static/media/skin-galleon.png": "/pixel/static/media/skin-galleon.c3013cad182dab4ea2b7.png",
     "static/media/skin-pizza.png": "/pixel/static/media/skin-pizza.1ec8cc92a3dcaf9b8258.png",
     "static/media/icon-coin-small.png": "/pixel/static/media/icon-coin-small.3990be31c6831ce8f402.png",
     "static/media/moneta-small.png": "/pixel/static/media/moneta-small.cf0e58eea16bac33474e.png",
@@ -43,7 +44,6 @@
     "static/media/turbo9.png": "/pixel/static/media/turbo9.6afd7f0138541f8cd8e8.png",
     "static/media/main-bg-platinum.png": "/pixel/static/media/main-bg-platinum.35a6d383426f2cfc285b.png",
     "static/media/disco.png": "/pixel/static/media/disco.4ca6ab7ef286c438cfd0.png",
-    "static/media/skin-galleon.png": "/pixel/static/media/skin-galleon.3514d1e7cf8f3c31849c.png",
     "static/media/skin-fallout-back.png": "/pixel/static/media/skin-fallout-back.b940e6b8bff309b9c920.png",
     "static/media/bg-silver.png": "/pixel/static/media/bg-silver.6f820fe308238e207adc.png",
     "static/media/skin-pixelcoin.png": "/pixel/static/media/skin-pixelcoin.392b91cbf4b2299467f4.png",
@@ -63,6 +63,7 @@
     "static/media/rocket.png": "/pixel/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/gift.png": "/pixel/static/media/gift.48143dc22ccff4ffc158.png",
+    "static/media/skin-robot.png": "/pixel/static/media/skin-robot.9f811c4b678ce90bf22b.png",
     "static/media/hatching-chick.png": "/pixel/static/media/hatching-chick.20fd44210e72b40b9020.png",
     "static/media/waving-hand.png": "/pixel/static/media/waving-hand.ec33146df183e86a22e3.png",
     "static/media/grinning-squinting-face.png": "/pixel/static/media/grinning-squinting-face.45c3f8554905aee35252.png",
@@ -75,8 +76,8 @@
     "static/media/front-facing-baby-chick.png": "/pixel/static/media/front-facing-baby-chick.2c0355f00c2fd057be7d.png",
     "static/media/fire.png": "/pixel/static/media/fire.a3f436f73c71c388f802.png",
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb486e6a7ebb10a.svg",
-    "static/media/main-bg-galleon.jpg": "/pixel/static/media/main-bg-galleon.a97c6693caf073a0507c.jpg",
     "static/media/bird.png": "/pixel/static/media/bird.d99dede94d9ebe48ceb3.png",
+    "static/media/skin-robot-back.png": "/pixel/static/media/skin-robot-back.f6248032e0b74c761c96.png",
     "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
     "static/media/Gold-95.png": "/pixel/static/media/Gold-95.3c89e30f93f8858236ab.png",
@@ -85,7 +86,6 @@
     "static/media/creator.jpg": "/pixel/static/media/creator.f62bc97cbbaafc40a77b.jpg",
     "static/media/Diamond-95.png": "/pixel/static/media/Diamond-95.861aa794bb5062a92a8a.png",
     "static/media/Silver-95.png": "/pixel/static/media/Silver-95.02bb1880dc18d9f64fed.png",
-    "static/media/skin-telegram-coin.png": "/pixel/static/media/skin-telegram-coin.a1b5f4495e6ecfa7b38e.png",
     "static/media/demo-ava-12.jpg": "/pixel/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
     "static/media/sparkles.png": "/pixel/static/media/sparkles.429b3a16c5f71c5a99fc.png",
     "static/media/demo-ava-13.jpg": "/pixel/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
@@ -93,11 +93,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.a1babaf8.css.map": "/pixel/static/css/main.a1babaf8.css.map",
-    "main.19b6c2ac.js.map": "/pixel/static/js/main.19b6c2ac.js.map"
+    "main.3bf87429.css.map": "/pixel/static/css/main.3bf87429.css.map",
+    "main.9936b998.js.map": "/pixel/static/js/main.9936b998.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1babaf8.css",
-    "static/js/main.19b6c2ac.js"
+    "static/css/main.3bf87429.css",
+    "static/js/main.9936b998.js"
   ]
 }
