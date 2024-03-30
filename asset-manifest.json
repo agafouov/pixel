@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.9a57a173.css",
+    "main.css": "/pixel/static/css/main.f9e332a0.css",
     "main.js": "/pixel/static/js/main.81ab1f55.js",
     "static/media/turbo5-ticker.png": "/pixel/static/media/turbo5-ticker.a1fa6b8074bf310783bc.png",
     "static/media/turbo8-ticker.png": "/pixel/static/media/turbo8-ticker.3f670a5d683003fc93e1.png",
@@ -35,6 +35,7 @@
     "static/media/demo-ava-1.jpg": "/pixel/static/media/demo-ava-1.3feb9903be67eecae2f7.jpg",
     "static/media/skin-cookie.png": "/pixel/static/media/skin-cookie.8366314aa9c6de90212d.png",
     "static/media/turbo4.png": "/pixel/static/media/turbo4.5ee96d77e3afc273fea5.png",
+    "static/media/moneta-min.png": "/pixel/static/media/moneta-min.c4578a28043f2e827ad1.png",
     "static/media/turbo7.png": "/pixel/static/media/turbo7.5a8f25451e87eb78aa9c.png",
     "static/media/peepo-rocket.gif": "/pixel/static/media/peepo-rocket.365480da6e11bb9fd916.gif",
     "static/media/main-bg-bronze.png": "/pixel/static/media/main-bg-bronze.7810d2535624bb19c8a5.png",
@@ -95,11 +96,11 @@
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.9a57a173.css.map": "/pixel/static/css/main.9a57a173.css.map",
+    "main.f9e332a0.css.map": "/pixel/static/css/main.f9e332a0.css.map",
     "main.81ab1f55.js.map": "/pixel/static/js/main.81ab1f55.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a57a173.css",
+    "static/css/main.f9e332a0.css",
     "static/js/main.81ab1f55.js"
   ]
 }
