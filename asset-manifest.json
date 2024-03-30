@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pixel/static/css/main.0b99cafe.css",
-    "main.js": "/pixel/static/js/main.1ffe71a4.js",
+    "main.css": "/pixel/static/css/main.6143b711.css",
+    "main.js": "/pixel/static/js/main.ee647e7a.js",
     "static/media/turbo5-ticker.png": "/pixel/static/media/turbo5-ticker.a1fa6b8074bf310783bc.png",
     "static/media/turbo8-ticker.png": "/pixel/static/media/turbo8-ticker.3f670a5d683003fc93e1.png",
     "static/media/skin-pixelcoin-bg.png": "/pixel/static/media/skin-pixelcoin-bg.34808707cbca076d77e8.png",
@@ -64,12 +64,9 @@
     "static/media/turbo6.png": "/pixel/static/media/turbo6.30f43fac07b628387aea.png",
     "static/media/trophy.png": "/pixel/static/media/trophy.ab71d0292bea0e198f4a.png",
     "static/media/ghost.png": "/pixel/static/media/ghost.dc26fdf23882f3d76608.png",
-    "static/media/rocket.png": "/pixel/static/media/rocket.d16b8a552d844f705877.png",
     "static/media/bg-platinum.png": "/pixel/static/media/bg-platinum.256f7c3566b0bf00ca9c.png",
     "static/media/gift.png": "/pixel/static/media/gift.48143dc22ccff4ffc158.png",
     "static/media/skin-robot.png": "/pixel/static/media/skin-robot.9f811c4b678ce90bf22b.png",
-    "static/media/hatching-chick.png": "/pixel/static/media/hatching-chick.20fd44210e72b40b9020.png",
-    "static/media/waving-hand.png": "/pixel/static/media/waving-hand.ec33146df183e86a22e3.png",
     "static/media/grinning-squinting-face.png": "/pixel/static/media/grinning-squinting-face.45c3f8554905aee35252.png",
     "static/media/crown.png": "/pixel/static/media/crown.928659773dad19049711.png",
     "static/media/dragon_coin_with_gradient.png": "/pixel/static/media/dragon_coin_with_gradient.4b08a18698665c0cf88b.png",
@@ -77,31 +74,26 @@
     "static/media/main-bg-fallout.jpg": "/pixel/static/media/main-bg-fallout.78cca8bb535a45947184.jpg",
     "static/media/Bronze-95.png": "/pixel/static/media/Bronze-95.f1be9c51899796be8608.png",
     "static/media/3rd-place-medal.png": "/pixel/static/media/3rd-place-medal.8822027051a4ae35fd74.png",
-    "static/media/front-facing-baby-chick.png": "/pixel/static/media/front-facing-baby-chick.2c0355f00c2fd057be7d.png",
     "static/media/fire.png": "/pixel/static/media/fire.a3f436f73c71c388f802.png",
     "static/media/coin-min.svg": "/pixel/static/media/coin-min.f651a916768e919e3fb486e6a7ebb10a.svg",
-    "static/media/bird.png": "/pixel/static/media/bird.d99dede94d9ebe48ceb3.png",
     "static/media/skin-robot-back.png": "/pixel/static/media/skin-robot-back.f6248032e0b74c761c96.png",
-    "static/media/baby-chick.png": "/pixel/static/media/baby-chick.045aebceb079eae81b69.png",
     "static/media/demo-ava-8.jpg": "/pixel/static/media/demo-ava-8.9b3569d55e6662f6bfbf.jpg",
     "static/media/Gold-95.png": "/pixel/static/media/Gold-95.3c89e30f93f8858236ab.png",
-    "static/media/heart.png": "/pixel/static/media/heart.fa3f36ef082a6acbd86e.png",
     "static/media/2nd-place-medal.png": "/pixel/static/media/2nd-place-medal.2210ffc1e34addf61b4d.png",
     "static/media/creator.jpg": "/pixel/static/media/creator.f62bc97cbbaafc40a77b.jpg",
     "static/media/Diamond-95.png": "/pixel/static/media/Diamond-95.861aa794bb5062a92a8a.png",
     "static/media/Silver-95.png": "/pixel/static/media/Silver-95.02bb1880dc18d9f64fed.png",
     "static/media/demo-ava-12.jpg": "/pixel/static/media/demo-ava-12.5f34f234e54368b7023a.jpg",
-    "static/media/sparkles.png": "/pixel/static/media/sparkles.429b3a16c5f71c5a99fc.png",
     "static/media/demo-ava-13.jpg": "/pixel/static/media/demo-ava-13.5636771dde16796e3f30.jpg",
     "static/media/Platinum-95.png": "/pixel/static/media/Platinum-95.f002e721c46753d484f5.png",
     "static/media/lightning.png": "/pixel/static/media/lightning.db8239c4974ff504daf4.png",
     "static/media/demo-ava-6.jpg": "/pixel/static/media/demo-ava-6.8a609d77c01cbdb5af5b.jpg",
     "index.html": "/pixel/index.html",
-    "main.0b99cafe.css.map": "/pixel/static/css/main.0b99cafe.css.map",
-    "main.1ffe71a4.js.map": "/pixel/static/js/main.1ffe71a4.js.map"
+    "main.6143b711.css.map": "/pixel/static/css/main.6143b711.css.map",
+    "main.ee647e7a.js.map": "/pixel/static/js/main.ee647e7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b99cafe.css",
-    "static/js/main.1ffe71a4.js"
+    "static/css/main.6143b711.css",
+    "static/js/main.ee647e7a.js"
   ]
 }
